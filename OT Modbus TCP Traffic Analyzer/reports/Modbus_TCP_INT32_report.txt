@@ -1,0 +1,3563 @@
+======================================================================
+           MODBUS TCP TRAFFIC ANALYSIS REPORT
+======================================================================
+Input File     : Modbus_TCP_INT32.pcap
+Generated On   : 23-07-2026 02:35:13
+======================================================================
+
+====================
+ Packet 1 
+====================
+Packet Don't Have Payload
+====================
+ Packet 2 
+====================
+Packet Don't Have Payload
+====================
+ Packet 3 
+====================
+Packet Don't Have Payload
+====================
+ Packet 4 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 5 
+====================
+Packet Don't Have Payload
+====================
+ Packet 6 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  15506 
+Register 24 :  319 
+Register 25 :  56474 
+Register 26 :  317 
+Register 27 :  45474 
+Register 28 :  954 
+Register 29 :  51920 
+====================
+ Packet 7 
+====================
+Packet Don't Have Payload
+====================
+ Packet 8 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 9 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  13360 
+Register 24 :  319 
+Register 25 :  59766 
+Register 26 :  317 
+Register 27 :  47616 
+Register 28 :  954 
+Register 29 :  55208 
+====================
+ Packet 10 
+====================
+Packet Don't Have Payload
+====================
+ Packet 11 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 12 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  13360 
+Register 24 :  319 
+Register 25 :  59766 
+Register 26 :  317 
+Register 27 :  47616 
+Register 28 :  954 
+Register 29 :  55208 
+====================
+ Packet 13 
+====================
+Packet Don't Have Payload
+====================
+ Packet 14 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 15 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  19696 
+Register 24 :  319 
+Register 25 :  60216 
+Register 26 :  317 
+Register 27 :  41676 
+Register 28 :  954 
+Register 29 :  56052 
+====================
+ Packet 16 
+====================
+Packet Don't Have Payload
+====================
+ Packet 17 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 18 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  19696 
+Register 24 :  319 
+Register 25 :  60216 
+Register 26 :  317 
+Register 27 :  41676 
+Register 28 :  954 
+Register 29 :  56052 
+====================
+ Packet 19 
+====================
+Packet Don't Have Payload
+====================
+ Packet 20 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 21 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  18028 
+Register 24 :  319 
+Register 25 :  59296 
+Register 26 :  317 
+Register 27 :  41174 
+Register 28 :  954 
+Register 29 :  52964 
+====================
+ Packet 22 
+====================
+Packet Don't Have Payload
+====================
+ Packet 23 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 24 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  18028 
+Register 24 :  319 
+Register 25 :  59296 
+Register 26 :  317 
+Register 27 :  41174 
+Register 28 :  954 
+Register 29 :  52964 
+====================
+ Packet 25 
+====================
+Packet Don't Have Payload
+====================
+ Packet 26 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 27 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  16338 
+Register 24 :  319 
+Register 25 :  61752 
+Register 26 :  317 
+Register 27 :  39872 
+Register 28 :  954 
+Register 29 :  52424 
+====================
+ Packet 28 
+====================
+Packet Don't Have Payload
+====================
+ Packet 29 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 30 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  16338 
+Register 24 :  319 
+Register 25 :  61752 
+Register 26 :  317 
+Register 27 :  39872 
+Register 28 :  954 
+Register 29 :  52424 
+====================
+ Packet 31 
+====================
+Packet Don't Have Payload
+====================
+ Packet 32 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 33 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  15616 
+Register 24 :  319 
+Register 25 :  60642 
+Register 26 :  317 
+Register 27 :  45550 
+Register 28 :  954 
+Register 29 :  56272 
+====================
+ Packet 34 
+====================
+Packet Don't Have Payload
+====================
+ Packet 35 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 36 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  15616 
+Register 24 :  319 
+Register 25 :  60642 
+Register 26 :  317 
+Register 27 :  45550 
+Register 28 :  954 
+Register 29 :  56272 
+====================
+ Packet 37 
+====================
+Packet Don't Have Payload
+====================
+ Packet 38 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 39 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  17424 
+Register 24 :  319 
+Register 25 :  63704 
+Register 26 :  317 
+Register 27 :  41024 
+Register 28 :  954 
+Register 29 :  56616 
+====================
+ Packet 40 
+====================
+Packet Don't Have Payload
+====================
+ Packet 41 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 42 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  17424 
+Register 24 :  319 
+Register 25 :  63704 
+Register 26 :  317 
+Register 27 :  41024 
+Register 28 :  954 
+Register 29 :  56616 
+====================
+ Packet 43 
+====================
+Packet Don't Have Payload
+====================
+ Packet 44 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 45 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  16068 
+Register 24 :  319 
+Register 25 :  63912 
+Register 26 :  317 
+Register 27 :  43006 
+Register 28 :  954 
+Register 29 :  57452 
+====================
+ Packet 46 
+====================
+Packet Don't Have Payload
+====================
+ Packet 47 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 48 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  16068 
+Register 24 :  319 
+Register 25 :  63912 
+Register 26 :  317 
+Register 27 :  43006 
+Register 28 :  954 
+Register 29 :  57452 
+====================
+ Packet 49 
+====================
+Packet Don't Have Payload
+====================
+ Packet 50 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 51 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  19602 
+Register 24 :  319 
+Register 25 :  65070 
+Register 26 :  317 
+Register 27 :  36724 
+Register 28 :  954 
+Register 29 :  55856 
+====================
+ Packet 52 
+====================
+Packet Don't Have Payload
+====================
+ Packet 53 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 54 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  19602 
+Register 24 :  319 
+Register 25 :  65070 
+Register 26 :  317 
+Register 27 :  36724 
+Register 28 :  954 
+Register 29 :  55856 
+====================
+ Packet 55 
+====================
+Packet Don't Have Payload
+====================
+ Packet 56 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 57 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  17830 
+Register 24 :  319 
+Register 25 :  62508 
+Register 26 :  317 
+Register 27 :  40382 
+Register 28 :  954 
+Register 29 :  55184 
+====================
+ Packet 58 
+====================
+Packet Don't Have Payload
+====================
+ Packet 59 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 60 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  17830 
+Register 24 :  319 
+Register 25 :  62508 
+Register 26 :  317 
+Register 27 :  40382 
+Register 28 :  954 
+Register 29 :  55184 
+====================
+ Packet 61 
+====================
+Packet Don't Have Payload
+====================
+ Packet 62 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 63 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  16792 
+Register 24 :  319 
+Register 25 :  63074 
+Register 26 :  317 
+Register 27 :  39734 
+Register 28 :  954 
+Register 29 :  54064 
+====================
+ Packet 64 
+====================
+Packet Don't Have Payload
+====================
+ Packet 65 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 66 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  16792 
+Register 24 :  319 
+Register 25 :  63074 
+Register 26 :  317 
+Register 27 :  39734 
+Register 28 :  954 
+Register 29 :  54064 
+====================
+ Packet 67 
+====================
+Packet Don't Have Payload
+====================
+ Packet 68 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 69 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  17690 
+Register 24 :  320 
+Register 25 :  288 
+Register 26 :  317 
+Register 27 :  37828 
+Register 28 :  954 
+Register 29 :  55808 
+====================
+ Packet 70 
+====================
+Packet Don't Have Payload
+====================
+ Packet 71 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 72 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  17690 
+Register 24 :  320 
+Register 25 :  288 
+Register 26 :  317 
+Register 27 :  37828 
+Register 28 :  954 
+Register 29 :  55808 
+====================
+ Packet 73 
+====================
+Packet Don't Have Payload
+====================
+ Packet 74 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 75 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  17924 
+Register 24 :  319 
+Register 25 :  63342 
+Register 26 :  317 
+Register 27 :  37482 
+Register 28 :  954 
+Register 29 :  53212 
+====================
+ Packet 76 
+====================
+Packet Don't Have Payload
+====================
+ Packet 77 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 78 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  17924 
+Register 24 :  319 
+Register 25 :  63342 
+Register 26 :  317 
+Register 27 :  37482 
+Register 28 :  954 
+Register 29 :  53212 
+====================
+ Packet 79 
+====================
+Packet Don't Have Payload
+====================
+ Packet 80 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 81 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  18912 
+Register 24 :  319 
+Register 25 :  65000 
+Register 26 :  317 
+Register 27 :  35548 
+Register 28 :  954 
+Register 29 :  53924 
+====================
+ Packet 82 
+====================
+Packet Don't Have Payload
+====================
+ Packet 83 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 84 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  18912 
+Register 24 :  319 
+Register 25 :  65000 
+Register 26 :  317 
+Register 27 :  35548 
+Register 28 :  954 
+Register 29 :  53924 
+====================
+ Packet 85 
+====================
+Packet Don't Have Payload
+====================
+ Packet 86 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 87 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  17800 
+Register 24 :  319 
+Register 25 :  62994 
+Register 26 :  317 
+Register 27 :  35488 
+Register 28 :  954 
+Register 29 :  50744 
+====================
+ Packet 88 
+====================
+Packet Don't Have Payload
+====================
+ Packet 89 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 90 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  17800 
+Register 24 :  319 
+Register 25 :  62994 
+Register 26 :  317 
+Register 27 :  35488 
+Register 28 :  954 
+Register 29 :  50744 
+====================
+ Packet 91 
+====================
+Packet Don't Have Payload
+====================
+ Packet 92 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 93 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  19572 
+Register 24 :  319 
+Register 25 :  60464 
+Register 26 :  317 
+Register 27 :  36230 
+Register 28 :  954 
+Register 29 :  50732 
+====================
+ Packet 94 
+====================
+Packet Don't Have Payload
+====================
+ Packet 95 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 96 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  19572 
+Register 24 :  319 
+Register 25 :  60464 
+Register 26 :  317 
+Register 27 :  36230 
+Register 28 :  954 
+Register 29 :  50732 
+====================
+ Packet 97 
+====================
+Packet Don't Have Payload
+====================
+ Packet 98 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 99 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  17844 
+Register 24 :  319 
+Register 25 :  63160 
+Register 26 :  317 
+Register 27 :  38318 
+Register 28 :  954 
+Register 29 :  53788 
+====================
+ Packet 100 
+====================
+Packet Don't Have Payload
+====================
+ Packet 101 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 102 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  17844 
+Register 24 :  319 
+Register 25 :  63160 
+Register 26 :  317 
+Register 27 :  38318 
+Register 28 :  954 
+Register 29 :  53788 
+====================
+ Packet 103 
+====================
+Packet Don't Have Payload
+====================
+ Packet 104 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 105 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  16298 
+Register 24 :  319 
+Register 25 :  62420 
+Register 26 :  317 
+Register 27 :  37984 
+Register 28 :  954 
+Register 29 :  51168 
+====================
+ Packet 106 
+====================
+Packet Don't Have Payload
+====================
+ Packet 107 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 108 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  16298 
+Register 24 :  319 
+Register 25 :  62420 
+Register 26 :  317 
+Register 27 :  37984 
+Register 28 :  954 
+Register 29 :  51168 
+====================
+ Packet 109 
+====================
+Packet Don't Have Payload
+====================
+ Packet 110 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 111 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  20530 
+Register 24 :  319 
+Register 25 :  65102 
+Register 26 :  317 
+Register 27 :  34250 
+Register 28 :  954 
+Register 29 :  54344 
+====================
+ Packet 112 
+====================
+Packet Don't Have Payload
+====================
+ Packet 113 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 114 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  20530 
+Register 24 :  319 
+Register 25 :  65102 
+Register 26 :  317 
+Register 27 :  34250 
+Register 28 :  954 
+Register 29 :  54344 
+====================
+ Packet 115 
+====================
+Packet Don't Have Payload
+====================
+ Packet 116 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 117 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  19844 
+Register 24 :  319 
+Register 25 :  62460 
+Register 26 :  317 
+Register 27 :  39972 
+Register 28 :  954 
+Register 29 :  56740 
+====================
+ Packet 118 
+====================
+Packet Don't Have Payload
+====================
+ Packet 119 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 120 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  19844 
+Register 24 :  319 
+Register 25 :  62460 
+Register 26 :  317 
+Register 27 :  39972 
+Register 28 :  954 
+Register 29 :  56740 
+====================
+ Packet 121 
+====================
+Packet Don't Have Payload
+====================
+ Packet 122 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 123 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  18224 
+Register 24 :  319 
+Register 25 :  63210 
+Register 26 :  317 
+Register 27 :  39656 
+Register 28 :  954 
+Register 29 :  55552 
+====================
+ Packet 124 
+====================
+Packet Don't Have Payload
+====================
+ Packet 125 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 126 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1316 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  18224 
+Register 24 :  319 
+Register 25 :  63210 
+Register 26 :  317 
+Register 27 :  39656 
+Register 28 :  954 
+Register 29 :  55552 
+====================
+ Packet 127 
+====================
+Packet Don't Have Payload
+====================
+ Packet 128 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 129 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  19744 
+Register 24 :  319 
+Register 25 :  61668 
+Register 26 :  317 
+Register 27 :  38824 
+Register 28 :  954 
+Register 29 :  54700 
+====================
+ Packet 130 
+====================
+Packet Don't Have Payload
+====================
+ Packet 131 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 132 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  19744 
+Register 24 :  319 
+Register 25 :  61668 
+Register 26 :  317 
+Register 27 :  38824 
+Register 28 :  954 
+Register 29 :  54700 
+====================
+ Packet 133 
+====================
+Packet Don't Have Payload
+====================
+ Packet 134 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 135 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  20058 
+Register 24 :  319 
+Register 25 :  62982 
+Register 26 :  317 
+Register 27 :  35824 
+Register 28 :  954 
+Register 29 :  53328 
+====================
+ Packet 136 
+====================
+Packet Don't Have Payload
+====================
+ Packet 137 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 138 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  20058 
+Register 24 :  319 
+Register 25 :  62982 
+Register 26 :  317 
+Register 27 :  35824 
+Register 28 :  954 
+Register 29 :  53328 
+====================
+ Packet 139 
+====================
+Packet Don't Have Payload
+====================
+ Packet 140 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 141 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  20242 
+Register 24 :  319 
+Register 25 :  61034 
+Register 26 :  317 
+Register 27 :  36314 
+Register 28 :  954 
+Register 29 :  52056 
+====================
+ Packet 142 
+====================
+Packet Don't Have Payload
+====================
+ Packet 143 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 144 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  20242 
+Register 24 :  319 
+Register 25 :  61034 
+Register 26 :  317 
+Register 27 :  36314 
+Register 28 :  954 
+Register 29 :  52056 
+====================
+ Packet 145 
+====================
+Packet Don't Have Payload
+====================
+ Packet 146 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 147 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  19798 
+Register 24 :  319 
+Register 25 :  59148 
+Register 26 :  317 
+Register 27 :  35694 
+Register 28 :  954 
+Register 29 :  49104 
+====================
+ Packet 148 
+====================
+Packet Don't Have Payload
+====================
+ Packet 149 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 150 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1322 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  19798 
+Register 24 :  319 
+Register 25 :  59148 
+Register 26 :  317 
+Register 27 :  35694 
+Register 28 :  954 
+Register 29 :  49104 
+====================
+ Packet 151 
+====================
+Packet Don't Have Payload
+====================
+ Packet 152 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 153 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  18808 
+Register 24 :  319 
+Register 25 :  63138 
+Register 26 :  317 
+Register 27 :  36084 
+Register 28 :  954 
+Register 29 :  52496 
+====================
+ Packet 154 
+====================
+Packet Don't Have Payload
+====================
+ Packet 155 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 156 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  18808 
+Register 24 :  319 
+Register 25 :  63138 
+Register 26 :  317 
+Register 27 :  36084 
+Register 28 :  954 
+Register 29 :  52496 
+====================
+ Packet 157 
+====================
+Packet Don't Have Payload
+====================
+ Packet 158 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 159 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  20494 
+Register 24 :  320 
+Register 25 :  628 
+Register 26 :  317 
+Register 27 :  31696 
+Register 28 :  954 
+Register 29 :  52816 
+====================
+ Packet 160 
+====================
+Packet Don't Have Payload
+====================
+ Packet 161 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 162 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  20494 
+Register 24 :  320 
+Register 25 :  628 
+Register 26 :  317 
+Register 27 :  31696 
+Register 28 :  954 
+Register 29 :  52816 
+====================
+ Packet 163 
+====================
+Packet Don't Have Payload
+====================
+ Packet 164 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 165 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  20618 
+Register 24 :  319 
+Register 25 :  63462 
+Register 26 :  317 
+Register 27 :  33580 
+Register 28 :  954 
+Register 29 :  52120 
+====================
+ Packet 166 
+====================
+Packet Don't Have Payload
+====================
+ Packet 167 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 168 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2279 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  20618 
+Register 24 :  319 
+Register 25 :  63462 
+Register 26 :  317 
+Register 27 :  33580 
+Register 28 :  954 
+Register 29 :  52120 
+====================
+ Packet 169 
+====================
+Packet Don't Have Payload
+====================
+ Packet 170 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 171 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2278 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  21046 
+Register 24 :  320 
+Register 25 :  2164 
+Register 26 :  317 
+Register 27 :  29520 
+Register 28 :  954 
+Register 29 :  52728 
+====================
+ Packet 172 
+====================
+Packet Don't Have Payload
+====================
+ Packet 173 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 174 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2278 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  21046 
+Register 24 :  320 
+Register 25 :  2164 
+Register 26 :  317 
+Register 27 :  29520 
+Register 28 :  954 
+Register 29 :  52728 
+====================
+ Packet 175 
+====================
+Packet Don't Have Payload
+====================
+ Packet 176 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 177 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2278 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  20338 
+Register 24 :  319 
+Register 25 :  64704 
+Register 26 :  317 
+Register 27 :  30120 
+Register 28 :  954 
+Register 29 :  49624 
+====================
+ Packet 178 
+====================
+Packet Don't Have Payload
+====================
+ Packet 179 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 180 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2278 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  20338 
+Register 24 :  319 
+Register 25 :  64704 
+Register 26 :  317 
+Register 27 :  30120 
+Register 28 :  954 
+Register 29 :  49624 
+====================
+ Packet 181 
+====================
+Packet Don't Have Payload
+====================
+ Packet 182 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc3   Operation     :   Read Holding Register Request 
+Starting Address : 30
+Quantity         : 30
+====================
+ Packet 183 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+Transaction ID   : 0
+Protocol         : 0
+Length           : 63
+Unit ID          : 1
+fc3   Operation     :  Read Holding Register Response
+Byte Counts      : 60
+Total Registers  : 30
+Register 0 :  0 
+Register 1 :  60 
+Register 2 :  0 
+Register 3 :  3 
+Register 4 :  0 
+Register 5 :  1318 
+Register 6 :  0 
+Register 7 :  2 
+Register 8 :  0 
+Register 9 :  1315 
+Register 10 :  0 
+Register 11 :  2284 
+Register 12 :  0 
+Register 13 :  1323 
+Register 14 :  0 
+Register 15 :  2284 
+Register 16 :  0 
+Register 17 :  1315 
+Register 18 :  0 
+Register 19 :  2278 
+Register 20 :  0 
+Register 21 :  0 
+Register 22 :  317 
+Register 23 :  20428 
+Register 24 :  320 
+Register 25 :  1622 
+Register 26 :  317 
+Register 27 :  30174 
+Register 28 :  954 
+Register 29 :  52224 
+====================
+ Packet 184 
+====================
+Packet Don't Have Payload
+====================
+ Packet 185 
+====================
+Packet Don't Have Payload
+====================
+ Packet 186 
+====================
+Packet Don't Have Payload
+====================
+ Packet 187 
+====================
+Packet Don't Have Payload
+Total Packets are : 187
+
+======================================================================
+TRANSACTION SUMMARY
+======================================================================
+Matched Transactions      : 60
+Missing Responses         : 0
+Unexpected Responses      : 0
+======================================================================
+
+======================================================================
+SUMMARY
+======================================================================
+Total Packets          : 187
+Requests               : 60
+Responses              : 60
+
+Read Operations        : 60
+Write Operations       : 0
+
+Exception Responses    : 0
+Malformed Packets      : 0
+
+======================================================================
+FUNCTION CODE STATISTICS
+======================================================================
+FC01 Read Coils                : 0
+FC02 Read Discrete Inputs      : 0
+FC03 Read Holding Registers    : 60
+FC04 Read Input Registers      : 0
+FC05 Write Single Coil         : 0
+FC06 Write Single Register     : 0
+FC15 Write Multiple Coils      : 0
+FC16 Write Multiple Registers  : 0
+======================================================================
+
+======================================================================
+WRITE OPERATION STATISTICS
+======================================================================
+Write Single Coil          : 0
+Write Single Register      : 0
+Write Multiple Coils       : 0
+Write Multiple Registers   : 0
+======================================================================
+
+======================================================================
+END OF REPORT
+======================================================================

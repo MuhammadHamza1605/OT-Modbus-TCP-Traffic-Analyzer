@@ -1,0 +1,534 @@
+======================================================================
+           MODBUS TCP TRAFFIC ANALYSIS REPORT
+======================================================================
+Input File     : Modbus_TCP_coil_hreg_write.pcap
+Generated On   : 23-07-2026 02:38:55
+======================================================================
+
+====================
+ Packet 1 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+================= WRITE OPERATION REQUEST=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc5   Operation    :   Write Single Coil Request 
+Address         : 0
+Set Value       : ON
+====================
+ Packet 2 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+================= WRITE OPERATION RESPONSE=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc5   Operation    :   Write Single Coil Response 
+The value is set as : ON  at the Address : 0
+====================
+ Packet 3 
+====================
+Packet Don't Have Payload
+====================
+ Packet 4 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+================= WRITE OPERATION REQUEST=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc5   Operation    :   Write Single Coil Request 
+Address         : 0
+Set Value       : OFF
+====================
+ Packet 5 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+================= WRITE OPERATION RESPONSE=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc5   Operation    :   Write Single Coil Response 
+The value is set as : OFF  at the Address : 0
+====================
+ Packet 6 
+====================
+Packet Don't Have Payload
+====================
+ Packet 7 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+================= WRITE OPERATION REQUEST=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc5   Operation    :   Write Single Coil Request 
+Address         : 0
+Set Value       : ON
+====================
+ Packet 8 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+================= WRITE OPERATION RESPONSE=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc5   Operation    :   Write Single Coil Response 
+The value is set as : ON  at the Address : 0
+====================
+ Packet 9 
+====================
+Packet Don't Have Payload
+====================
+ Packet 10 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+================= WRITE OPERATION REQUEST=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 8
+Unit ID          : 1
+fc15  Operation   : Write Multiple  Coils Request 
+Starting Address        : 0
+Quantity                : 1
+Byte Count              : 1
+Current Byte 119
+Bit 1 > Coil 0 : ON
+Bit 1 > Coil 1 : ON
+Bit 1 > Coil 2 : ON
+Bit 0 > Coil 3 : OFF
+Bit 1 > Coil 4 : ON
+Bit 1 > Coil 5 : ON
+Bit 1 > Coil 6 : ON
+Bit 0 > Coil 7 : OFF
+====================
+ Packet 11 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+================= WRITE OPERATION RESPONSE=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc15  Operation   : Write Multiple  Coils Response 
+Starting Address : 0
+Number of Coils are written : 1
+====================
+ Packet 12 
+====================
+Packet Don't Have Payload
+====================
+ Packet 13 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+================= WRITE OPERATION REQUEST=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 8
+Unit ID          : 1
+fc15  Operation   : Write Multiple  Coils Request 
+Starting Address        : 0
+Quantity                : 1
+Byte Count              : 1
+Current Byte 118
+Bit 0 > Coil 0 : OFF
+Bit 1 > Coil 1 : ON
+Bit 1 > Coil 2 : ON
+Bit 0 > Coil 3 : OFF
+Bit 1 > Coil 4 : ON
+Bit 1 > Coil 5 : ON
+Bit 1 > Coil 6 : ON
+Bit 0 > Coil 7 : OFF
+====================
+ Packet 14 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+================= WRITE OPERATION RESPONSE=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc15  Operation   : Write Multiple  Coils Response 
+Starting Address : 0
+Number of Coils are written : 1
+====================
+ Packet 15 
+====================
+Packet Don't Have Payload
+====================
+ Packet 16 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+================= WRITE OPERATION REQUEST=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 8
+Unit ID          : 1
+fc15  Operation   : Write Multiple  Coils Request 
+Starting Address        : 0
+Quantity                : 1
+Byte Count              : 1
+Current Byte 119
+Bit 1 > Coil 0 : ON
+Bit 1 > Coil 1 : ON
+Bit 1 > Coil 2 : ON
+Bit 0 > Coil 3 : OFF
+Bit 1 > Coil 4 : ON
+Bit 1 > Coil 5 : ON
+Bit 1 > Coil 6 : ON
+Bit 0 > Coil 7 : OFF
+====================
+ Packet 17 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+================= WRITE OPERATION RESPONSE=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc15  Operation   : Write Multiple  Coils Response 
+Starting Address : 0
+Number of Coils are written : 1
+====================
+ Packet 18 
+====================
+Packet Don't Have Payload
+====================
+ Packet 19 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+================= WRITE OPERATION REQUEST=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 8
+Unit ID          : 1
+fc15  Operation   : Write Multiple  Coils Request 
+Starting Address        : 0
+Quantity                : 1
+Byte Count              : 1
+Current Byte 118
+Bit 0 > Coil 0 : OFF
+Bit 1 > Coil 1 : ON
+Bit 1 > Coil 2 : ON
+Bit 0 > Coil 3 : OFF
+Bit 1 > Coil 4 : ON
+Bit 1 > Coil 5 : ON
+Bit 1 > Coil 6 : ON
+Bit 0 > Coil 7 : OFF
+====================
+ Packet 20 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+================= WRITE OPERATION RESPONSE=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc15  Operation   : Write Multiple  Coils Response 
+Starting Address : 0
+Number of Coils are written : 1
+====================
+ Packet 21 
+====================
+Packet Don't Have Payload
+====================
+ Packet 22 
+====================
+Packet Don't Have Payload
+====================
+ Packet 23 
+====================
+Packet Don't Have Payload
+====================
+ Packet 24 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+================= WRITE OPERATION REQUEST=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc6   Operation     :  Write Single Register Request 
+Register Address : 0
+Value to Write   : 100
+====================
+ Packet 25 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+================= WRITE OPERATION RESPONSE=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc6   Operation     :   Write Single Register Response 
+The Value 100is written on the Register 0
+====================
+ Packet 26 
+====================
+Packet Don't Have Payload
+====================
+ Packet 27 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+================= WRITE OPERATION REQUEST=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc6   Operation     :  Write Single Register Request 
+Register Address : 0
+Value to Write   : 1000
+====================
+ Packet 28 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+================= WRITE OPERATION RESPONSE=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc6   Operation     :   Write Single Register Response 
+The Value 1000is written on the Register 0
+====================
+ Packet 29 
+====================
+Packet Don't Have Payload
+====================
+ Packet 30 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+================= WRITE OPERATION REQUEST=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc6   Operation     :  Write Single Register Request 
+Register Address : 0
+Value to Write   : 245
+====================
+ Packet 31 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+================= WRITE OPERATION RESPONSE=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc6   Operation     :   Write Single Register Response 
+The Value 245is written on the Register 0
+====================
+ Packet 32 
+====================
+Packet Don't Have Payload
+====================
+ Packet 33 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+================= WRITE OPERATION REQUEST=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc6   Operation     :  Write Single Register Request 
+Register Address : 9
+Value to Write   : 3456
+====================
+ Packet 34 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+================= WRITE OPERATION RESPONSE=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc6   Operation     :   Write Single Register Response 
+The Value 3456is written on the Register 9
+====================
+ Packet 35 
+====================
+Packet Don't Have Payload
+====================
+ Packet 36 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+================= WRITE OPERATION REQUEST=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 9
+Unit ID          : 1
+fc16   Operation         :   Write Multiple Register Request 
+Starting Address  : 9
+Quantity          : 1
+Byte Count        : 2
+Register 9 : 3456
+====================
+ Packet 37 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+================= WRITE OPERATION RESPONSE=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc16   Operation         :  Write Multiple Register Response 
+Starting Address  : 9
+Register Writtens : 1
+====================
+ Packet 38 
+====================
+Packet Don't Have Payload
+====================
+ Packet 39 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+================= WRITE OPERATION REQUEST=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 9
+Unit ID          : 1
+fc16   Operation         :   Write Multiple Register Request 
+Starting Address  : 9
+Quantity          : 1
+Byte Count        : 2
+Register 9 : 512
+====================
+ Packet 40 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+================= WRITE OPERATION RESPONSE=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc16   Operation         :  Write Multiple Register Response 
+Starting Address  : 9
+Register Writtens : 1
+====================
+ Packet 41 
+====================
+Packet Don't Have Payload
+====================
+ Packet 42 
+====================
+Source IP        : 10.42.27.94
+Destination IP   : 10.42.27.181
+================= WRITE OPERATION REQUEST=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 9
+Unit ID          : 1
+fc16   Operation         :   Write Multiple Register Request 
+Starting Address  : 9
+Quantity          : 1
+Byte Count        : 2
+Register 9 : 256
+====================
+ Packet 43 
+====================
+Source IP        : 10.42.27.181
+Destination IP   : 10.42.27.94
+================= WRITE OPERATION RESPONSE=================
+Transaction ID   : 0
+Protocol         : 0
+Length           : 6
+Unit ID          : 1
+fc16   Operation         :  Write Multiple Register Response 
+Starting Address  : 9
+Register Writtens : 1
+====================
+ Packet 44 
+====================
+Packet Don't Have Payload
+====================
+ Packet 45 
+====================
+Packet Don't Have Payload
+====================
+ Packet 46 
+====================
+Packet Don't Have Payload
+====================
+ Packet 47 
+====================
+Packet Don't Have Payload
+Total Packets are : 47
+
+======================================================================
+TRANSACTION SUMMARY
+======================================================================
+Matched Transactions      : 14
+Missing Responses         : 0
+Unexpected Responses      : 0
+======================================================================
+
+======================================================================
+SUMMARY
+======================================================================
+Total Packets          : 47
+Requests               : 14
+Responses              : 14
+
+Read Operations        : 3
+Write Operations       : 11
+
+Exception Responses    : 0
+Malformed Packets      : 0
+
+======================================================================
+FUNCTION CODE STATISTICS
+======================================================================
+FC01 Read Coils                : 0
+FC02 Read Discrete Inputs      : 0
+FC03 Read Holding Registers    : 0
+FC04 Read Input Registers      : 0
+FC05 Write Single Coil         : 3
+FC06 Write Single Register     : 4
+FC15 Write Multiple Coils      : 4
+FC16 Write Multiple Registers  : 3
+======================================================================
+
+======================================================================
+WRITE OPERATION STATISTICS
+======================================================================
+Write Single Coil          : 3
+Write Single Register      : 4
+Write Multiple Coils       : 4
+Write Multiple Registers   : 3
+======================================================================
+
+======================================================================
+END OF REPORT
+======================================================================
