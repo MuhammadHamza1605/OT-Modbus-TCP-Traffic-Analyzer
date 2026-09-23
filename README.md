@@ -178,7 +178,7 @@ OT-Network-Traffic-Analyzer/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/MuhammadHamza1605/OT-Modbus-TCP-Traffic-Analyzer
 cd OT-Network-Traffic-Analyzer
 ```
 
